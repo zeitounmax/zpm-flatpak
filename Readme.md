@@ -19,11 +19,11 @@ Ce script permet de gérer les applications Flatpak avec une interface semi-grap
 1. Clonez le dépôt ou téléchargez le script.
 2. Rendez le script exécutable :
    ```bash
-   chmod +x zpmtree.sh
+   chmod +x zpmflat.sh
    ```
 3. Exécutez le script :
    ```bash
-   ./zpmtree.sh
+   ./zpmflat.sh
    ```
 
 ## Fonctionnalités
